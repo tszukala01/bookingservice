@@ -2,6 +2,7 @@
 <server description="new server">
   <!-- Enable features -->
   <featureManager>
+  &lt;feature<feature>logstashCollector-1.0</feature>
     <feature>microProfile-1.0</feature>
     <feature>ejbLite-3.2</feature>
   </featureManager>
